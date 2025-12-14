@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Tokaido Line",
+  "base_artist": "Vingo",
+  "createdAt": "2025-12-14T05:28:35.062425Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tokaido Line",
+      "artist": "Vingo",
+      "has_synced": false,
+      "path": "select/pl_01_Tokaido_Line_Vingo.txt"
+    }
+  ]
+}
